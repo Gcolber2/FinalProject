@@ -5,6 +5,7 @@ This site will function as a showcase of the various learning resources that hav
 ## 1. Planned Pages
 
 -1 Homepage / index.html
+
 -2 Using The Code Editor / codeeditor.html
 -3 HTML - Semantic Elements / htmlsemantics.html
 -4 CSS - Layout and Responsive Design / csslrdesign.html
