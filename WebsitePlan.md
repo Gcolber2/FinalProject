@@ -44,7 +44,7 @@ This site will function as a showcase of the various learning resources that hav
 
 -Icons: Not Included
 
--Video: Not Included
+-Video: There will be one Youtube video per page pertaining to the page's subject.
 
 -Tables or Lists: There will be a basic sample table/list used as an example in page 1.
 
