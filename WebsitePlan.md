@@ -1,4 +1,4 @@
-#Website Plan Document
+# Website Plan Document
 
 This site will function as a showcase of the various learning resources that have been taught up to this point. To serve as a reminder and a test of how well the information has been retained.
 
