@@ -33,6 +33,7 @@ This site will function as a showcase of the various learning resources that hav
 -Page 5 This will go into the importance of website accesibility and give some examples as to how to go about implementing it. This includes labels, image alt text, accesibility uses for semantics, and color contrasts.
 
 -Page 6 Will explain basic yet important ethical issues and mistakes that can be made in web development. This inclues as well how to find out if a piece of media is free to use or not, and how to credit someone properly for it.
+
 -Page 7 This serves to explain how to use validation services for the code on your site. Will include links to the CSS and HTML Validators themselves as well.
 
 -Page 8 This page will talk about using generative AI such as ChatGPT. It will also discuss the ethical problems that may occur when trying to put it to use.
