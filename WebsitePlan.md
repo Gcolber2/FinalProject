@@ -50,7 +50,7 @@ This site will function as a showcase of the various learning resources that hav
 
 Forms: Not Included
 
-##4 Navigation Plan
+## 4 Navigation Plan
 
 -The homepage will provide links to every other webpage on the site.
 
@@ -58,7 +58,7 @@ Forms: Not Included
 
 -The navigation page names are: Home, Using the Code Editor, HTML Semantic Elements, CSS Layout and Responsive Design, Accesibility, Ethical Issues in Web Development, Validation for HTML/CSS Code, and Using GenAI.
 
-##5 Accesibility Considerations
+## 5 Accesibility Considerations
 
 -All images will need contain alt text.
 
@@ -66,7 +66,7 @@ Forms: Not Included
 
 -Color Combinations will need to meet color combination guidelines.
 
-##6 File and Folder Plan
+## 6 File and Folder Plan
 
 /Project-Folder
 index.html
@@ -97,6 +97,6 @@ flower3.png/jpg
 
 flower4.png/jpg
 
-##7 Code Validation
+## 7 Code Validation
 
 -The HTML/CSS code will be run through the code validator services and then have any errors that occur be dealt with until the code is approved. Then the webpages themselves will be run through WAVE to be sure accesibility is up to standard.
