@@ -37,3 +37,34 @@ Forms: Not Included
 -The homepage will provide links to every other webpage on the site.
 -The pages themselves will at the top of the page contain a navigation bar that will lead to the various other pages on the site as well.
 -The navigation page names are: Home, Using the Code Editor, HTML Semantic Elements, CSS Layout and Responsive Design, Accesibility, Ethical Issues in Web Development, Validation for HTML/CSS Code, and Using GenAI.
+
+##5 Accesibility Considerations
+
+-All images will need contain alt text.
+-The headings will be structures as such. Page Headers(h1) Section Headers(h2) List Headers/Footers(H3).
+-Color Combinations will need to meet color combination guidelines.
+
+##6 File and Folder Plan
+
+/Project-Folder
+index.html
+css.html
+
+/pages
+codeeditor.html
+htmlsemantics.html
+csslrdesign.html
+accesibility.html
+ethicaldevelopment.html
+validation.html
+genai.html
+
+/images
+flower1.png/jpg
+flower2.png/jpg
+flower3.png/jpg
+flower4.png/jpg
+
+##7 Code Validation
+
+-The HTML/CSS code will be run through the code validator services and then have any errors that occur be dealt with until the code is approved. Then the webpages themselves will be run through WAVE to be sure accesibility is up to standard.
