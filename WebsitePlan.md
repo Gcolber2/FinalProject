@@ -75,6 +75,7 @@ index.html
 css.html
 
 /pages
+
 codeeditor.html
 
 htmlsemantics.html
@@ -90,6 +91,7 @@ validation.html
 genai.html
 
 /images
+
 flower1.png/jpg
 
 flower2.png/jpg
