@@ -69,6 +69,7 @@ Forms: Not Included
 ## 6 File and Folder Plan
 
 /Project-Folder
+
 index.html
 
 css.html
