@@ -28,7 +28,7 @@ This site will function as a showcase of the various learning resources that hav
 
 -Page 3 Is a summary of various basic HTML Semantic Elements that one might commonly use or come across. It will display some examples of semantics and their descriptions on the page itself.
 
--Page 4 Explains what the flexbox and grid layout options are alongside how to make a webpage and images more responsive to devices. This will include basic descriptions of what the layout options can do in practice and give an example responsive design can interact with the page itself and images.
+-Page 4 Explains what the flexbox and grid layout options are alongside how to make a webpage and images more responsive to devices. This will include basic descriptions of what the layout options can do in practice and give an example of how responsive design can interact with the page itself and images.
 
 -Page 5 This will go into the importance of website accesibility and give some examples as to how to go about implementing it. This includes labels, image alt text, accesibility uses for semantics, and color contrasts.
 
