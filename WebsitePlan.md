@@ -98,8 +98,6 @@ flower2.png/jpg
 
 flower3.png/jpg
 
-flower4.png/jpg
-
 ## 7 Code Validation
 
 -The HTML/CSS code will be run through the code validator services and then have any errors that occur be dealt with until the code is approved. Then the webpages themselves will be run through WAVE to be sure accesibility is up to standard.
