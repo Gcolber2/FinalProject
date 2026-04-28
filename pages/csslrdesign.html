@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../style.css">
+<title>CSS Layout and Responsive Design</title>
+</head>
+
+<body>
+
+<h2>Site Navigation</h2>
+<p>Use these links to move from webpage to webpage.</p>
+<div class="navigation">
+    <div class="navigation-links">
+<nav>
+<a href="../index.html">Homepage</a>
+<br>
+<a class="links" href="codeeditor.html">Using The Code Editor</a>
+<br>
+<a class="links" href="htmlsemantics.html">HTML - Semantic Elements</a>
+<br>
+<a class="links" href="accessibility.html">Accessibility</a>
+<br>
+<a class="links" href="ethicaldevelopment.html">Ethical Issues in Web Development</a>
+<br>
+<a class="links" href="validation.html">Validation for HTML and CSS code</a>
+<br>
+<a class="links" href="genai.html">Using Generative Artificial Intelligence</a>
+</nav>
+</div>
+</div>
+
+<article>
+<h1>CSS Layout and Responsive Design</h1>
+<section>
+<h2>How CSS Can Effect Webpage Layouts</h2>
+ <p>One very important feature of CSS is how it can be used to change the layout of the page itself using the box model, flexbox, and grid.
+</p>
+</section>
+<br>
+<section>
+<h2>Box Model</h2>
+<p>The first main method is the box model which as it's name implies wraps a box of sorts around html elements. This box uses several different parts to function wich are as follows.
+    The content which is the content of the box and represents the texts and images inside the box, Padding which affects how much space or area around the content is cleared for it, Border represents the border that wraps around the padding and content and where the box's totalwidth and height stops, and tbe Margin represents the area around the border while also representing how much total space the box takes up on the page. Following this are the Width and Height of an element which can be used to affect the content area. This includes the padding and borders as well so those must be taken into account when editing this function.
+</p>
+</section>
+<br>
+<section>
+<h2>Flexbox and Grid</h2>
+    <p>Flexbox and Grid are both layout modules using CSS for the purpose of editing webpage/website layouts. Flexbox is used for simpler one dimensional layouts with either rows or collumns and has a higher focus on flexibility. While Grid uses a two dimensional layout with both rows and collumns and is meant for easily creating complex web layouts. 
+        Both are useful in keeping things orderly for certain elements on a page or for the site in it's entirety and which one is used for which depends on the complexity of the site in question. Both are also good for designing a responsive layout structure which leads into the next segment. </p>
+</section>
+<br>
+    <section>
+    <h2>Using CSS To Give a Site a More Responsive Design</h2>
+    <p>Responsive web design is about using HTML and CSS to make your site respond to various different devices and view sizes by making itself viewable regardless of such. Like making content always stay in the scope of the screen regardless of how much one zooms in. Or changing it to better fit a specific device's screen space or viewing limitations. One example is the image below which depending on the zoom/screensize will scale down but won't scale up higher than whatever percent it's width is set to.</p>
+    <img class="flower1" src="../images/flower1.jpg" alt="A picture of Pink Tulips" title="Flowers, Tulips, Cultivated tulips">
+<br>
+<p>Or how this image changes into another smaller one when zooming in.</p>
+<picture>
+    <source class="flower2" srcset="../images/flower2.jpg" media="(max-width: 600px)">
+    <img class="flower1" src="../images/flower1.jpg" alt="A picture of Pink Tulips">
+</picture>
+</section>
+</article>
+<br>
+    <section>
+    <h2>Extra Links</h2>
+<p>An interesting video comparing Flexbox's uses vs grid's.</p>
+<a href="https://www.youtube.com/watch?v=aEj6k-gi9-s">CSS Flexbox vs Grid - Are you using them right?</a>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEj6k-gi9-s?si=lA6pFMCtHfE1NGam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+    <p>An introduction to responsive design along with it's following lessons that helps get a more comprehensive grasp on responsive design.</p>
+<a href="https://www.w3schools.com/css/css_rwd_intro.asp">Responsive Web Design Introduction</a>
+</section>
+<br>
+<footer>
+    <h3>Click here to go to my Github profile:
+ <a href="https://github.com/Gcolber2">Github.com/Gcolber2</a>
+    </h3>
+    </footer>   
+</body>

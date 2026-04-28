@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: skyblue;
+}
+
+p, article, a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+a:hover {
+    color:red;
+}
+
+section{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    outline: 8px solid black;
+    background-color: lightsteelblue;
+    padding: 5px;
+}
+
+.flower1 {
+    height:auto;
+    max-width:50%;
+}
+
+.flower2, .flower3 {
+    height:auto;
+    max-width: 20%;
+    padding-bottom: 20px;
+}
+
+.attribution {
+    background-color: lightblue;
+    padding:10px;
+    margin:0%;
+}
+
+.navigation {
+	display: flex;
+	justify-content:left;
+    text-align: start;
+    margin: 0%;
+    outline: 8px solid black;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.navigation-links {
+    width:300px;
+	line-height: 1.6;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section {
+    text-align: left;
+}

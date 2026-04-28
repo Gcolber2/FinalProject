@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../style.css">
+<title>Accessibility</title>
+</head>
+
+<body>
+
+<h2>Site Navigation</h2>
+<p>Use these links to move from webpage to webpage.</p>
+<div class="navigation">
+    <div class="navigation-links">
+<nav>
+<a href="../index.html">Homepage</a>
+<br>
+<a class="links" href="codeeditor.html">Using The Code Editor</a>
+<br>
+<a class="links" href="htmlsemantics.html">HTML - Semantic Elements</a>
+<br>
+<a class="links" href="csslrdesign.html">CSS Layout and Responsive Design</a>
+<br>
+<a class="links" href="ethicaldevelopment.html">Ethical Issues in Web Development</a>
+<br>
+<a class="links" href="validation.html">Validation for HTML and CSS code</a>
+<br>
+<a class="links" href="genai.html">Using Generative Artificial Intelligence</a>
+</nav>
+</div>
+</div>
+
+<article>
+<h1>Accessibility</h1>
+    <section>
+<h2>What Accessibility Is and How It Can Be Applied</h2>
+    <p>Accessibility in websites is a thing of absolute importance for giving those with disabilities and impairments the ability to benefit from the internet as much as anyone else. For this page it will focus on how it's usually done via HTML and CSS accessibility practices. HTML's accessibility practices are most commonly seen in semantic html, color-contrast alt text in images, and color contrast. The former is seen for example in the form of replacing div elements with more descriptive ones depending on their purpose like button, article, table, header, footer, etc. 
+        <br>
+        While Labels are used to describe certain html elements in even better detail for tools such as screen readers. One example is using a lable to describe what purpose a particular button serves when it is clicked on. Or it can be used to describe an input field such as if you wished to have someone input their driver's license you would label the place for that input as such. There are also higher levels of labeling used for forms requiring use of the fieldset element to encompase the form then the legened element to describe what the subject of the information being submitted into the form as a whole is leading into the labels for everything below those two that requires them. </p>
+</section>
+<br>
+<section>
+<h2>Alt image Text</h2>
+<p>Also of great importance for those with visual impairments and also those running an operating system or browser that struggles or lacks support for certain image files or website features. We have Alternative Image Text using the alt attribute when posting an image. This makes it so that when an image doesn't load or if a screen reader goes accross the image a line of text will appear in it's place to explain what the image is/is supposed to be for the viewer and the screen reader to parse. This is also useful if an error occurs with the image itself on the host site so it extends beyond uses in pure accessibility while still connecting back to it in a way. 
+    <br> 
+    <br>
+Here is an example of an image as it is normally, and what it's alt text looks like in the case of an error.
+</p>
+<img class="flower3" src="../images/flower3.jpg" alt="A picture of a Yellow Spring Daffodil" title="Daffodil Flower Spring">
+<br>
+<img class="flower3" src="../images/flowr3.jpg" alt="A picture of a Yellow Spring Daffodil" title="Daffodil Flower Spring">
+</section>
+<br>
+<section>
+<h2>Color Contrast</h2>
+    <p>Lastly there's color contrast on a webpage. This represents light and dark colors and how they interact with eachother and is important to understand for overall visibility even without factoring in accesibility concerns. For example lightly colored text on a lightly colored background can make it hard to see same with dark text on a dark background. While having overly bright text on a dark background while easier to see can at times cause irritation to the eyes if used in excess. A good video on how to test if a webpage is reaching proper color contrast standards can be found via this link.
+        <br>
+         <a href="https://www.youtube.com/watch?v=4qglOhoN7Gc">How To Test Color Contrast for Accessibility with #WebAIM</a>. </p>
+</section>
+</article>
+<br>
+    <section>
+    <h2>Extra Links</h2>
+<p>An informative article on the importance of website accessibility which also includes more information on specific disabilities and how to make things accessible for those dealing with them.
+    <br>
+<a href="https://webaim.org/intro/">Introduction to Web Accessibility.</a>
+</p>
+</section>
+<br>
+<footer>
+    <h3>Click here to go to my Github profile:
+ <a href="https://github.com/Gcolber2">Github.com/Gcolber2</a>
+    </h3>
+    </footer>   
+</body>
